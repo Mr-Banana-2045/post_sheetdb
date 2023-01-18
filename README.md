@@ -12,3 +12,7 @@ Post data
 
 <a href="https://sheetdb.io">stsrt sheetdb</a> <img style="width: 20px;" src="https://www.uplooder.net/img/image/36/3471c905319c23c573d4953fd90ad16b/index.png">
 
+<pre>curl --header "Content-Type: application/json" \
+--reques>   --request POST \
+--data '{"clinet": "test", "host": "127.231.23.2", "system": "linux", "win~linux": "kali"}' \
+https://sheetdb.io/api/v1/.....</pre>
