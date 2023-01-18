@@ -14,5 +14,5 @@ Post data
 
 <pre>curl --header "Content-Type: application/json" \
 --reques>   --request POST \
---data '{"clinet": "test", "host": "127.231.23.2", "system": "linux", "win~linux": "kali"}' \
+--data '{"test": "start}' \
 https://sheetdb.io/api/v1/.....</pre>
