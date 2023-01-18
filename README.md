@@ -8,7 +8,10 @@ Post data
 
 ![Screenshot3](https://user-images.githubusercontent.com/109140672/213294288-e8e1d42b-d400-4656-9a73-d20dafb5e749.png)
 
-<pre> PYTHON<br> BASH - CURL<br> JAVASCIPT</pre>
+* python
+* bash
+* curl
+* javascript
 
 <a href="https://sheetdb.io">stsrt sheetdb</a> <img style="width: 20px;" src="https://www.uplooder.net/img/image/36/3471c905319c23c573d4953fd90ad16b/index.png">
 
