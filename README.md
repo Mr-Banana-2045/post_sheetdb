@@ -1,5 +1,5 @@
 # post_sheetdb
-Post data
+Introducing several methods to post to the item api
 
 # image
 ![Screenshot1](https://user-images.githubusercontent.com/109140672/213294217-210b22c4-d294-42d2-98d6-3bb5d53e4e04.png)
