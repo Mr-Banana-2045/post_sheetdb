@@ -7,3 +7,5 @@ Post data
 ![Screenshot2](https://user-images.githubusercontent.com/109140672/213294260-443f9740-f1a7-4b74-b3e8-ba218db5a2f2.png)
 
 ![Screenshot3](https://user-images.githubusercontent.com/109140672/213294288-e8e1d42b-d400-4656-9a73-d20dafb5e749.png)
+
+<pre> PYTHON<br> BASH - CURL<br> JAVASCIPT</pre>
