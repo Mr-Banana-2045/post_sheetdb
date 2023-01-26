@@ -13,7 +13,7 @@ Introducing several methods to post to the item api
 * curl
 * javascript
 
-<a href="https://sheetdb.io">stsrt sheetdb</a> <img style="width: 20px;" src="https://www.uplooder.net/img/image/36/3471c905319c23c573d4953fd90ad16b/index.png">
+<a href="https://sheetdb.io">start sheetdb</a> <img style="width: 20px;" src="https://www.uplooder.net/img/image/36/3471c905319c23c573d4953fd90ad16b/index.png">
 
 <pre>curl --header "Content-Type: application/json" \
 --reques>   --request POST \
